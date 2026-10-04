@@ -16,3 +16,4 @@
 - [x] Day 1：认识 GitHub
 - [ ] Day 2：看懂 GitHub 项目
 - [ ] Day 3：开始学习 Git
+今天开始学习本地 Git。
