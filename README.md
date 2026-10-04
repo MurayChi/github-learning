@@ -21,3 +21,7 @@
 ## Git Branch
 
 Branch 可以让我在不影响 main 的情况下开发新功能。
+
+## Pull Request
+
+Pull Request 用来提出修改，并在合并到 main 之前进行检查和讨论。
