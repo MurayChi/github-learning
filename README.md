@@ -10,3 +10,9 @@
 - 学会 Branch
 - 学会 Pull Request
 - 学会 复查Commit
+-
+- ## 学习进度
+
+- [x] Day 1：认识 GitHub
+- [ ] Day 2：看懂 GitHub 项目
+- [ ] Day 3：开始学习 Git
