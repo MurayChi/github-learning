@@ -18,3 +18,6 @@
 - [ ] Day 3：开始学习 Git
 今天开始学习本地 Git。
 正在学习 Git 分支。
+## Git Branch
+
+Branch 可以让我在不影响 main 的情况下开发新功能。
